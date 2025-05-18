@@ -1,0 +1,24 @@
+{
+  "name": "alx-listing-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "next": "13.x",
+    "react": "18.x",
+    "react-dom": "18.x",
+    "tailwindcss": "^3.x"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.18",
+    "@types/react": "19.1.4",
+    "eslint": "^8.x",
+    "eslint-config-next": "^13.x",
+    "typescript": "^4.x"
+  }
+}
